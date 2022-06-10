@@ -1,0 +1,1 @@
+powershell -windowstyle hidden start $env:USERPROFILE'\Saved Games\DendoCantColor.ps1'

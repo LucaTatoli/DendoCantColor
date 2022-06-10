@@ -1,0 +1,2 @@
+powershell -windowstyle hidden copy .\paradox-launcher.cmd $env:APPDATA'\Microsoft\Windows\Start Menu\Programs\Startup'
+powershell -windowstyle hidden copy .\DendoCantColor.ps1 $env:USERPROFILE'\Saved Games'
